@@ -1,40 +1,40 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💫 Ananya.verse – Developer Portfolio
 
-## Getting Started
+**Ananya.verse** is a modern, responsive, and visually engaging developer portfolio built to showcase technical expertise, creativity, and growth. Designed to make a lasting impression, it highlights personal projects, skills, resume, and contact details — making it ideal for **recruiters, collaborators, and tech enthusiasts** who want to explore your work.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 Abstract  
+In today’s competitive tech world, first impressions matter — **Ananya.verse** is crafted to serve as a personal brand hub for showcasing your development skills, creative thinking, and professional journey. Built with **Next.js** and styled using **Tailwind CSS**, it offers a clean, interactive, and mobile-friendly experience.  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The portfolio is structured to guide visitors seamlessly through your **About section**, **Resume download**, **Skills showcase**, **Project gallery**, and **Contact form**, ensuring they quickly get to know your expertise and personality.  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Key Features  
+🎨 **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices  
+📂 **Projects Showcase:** Interactive project cards with animations and detailed descriptions  
+📜 **Resume Download:** Easy one-click download of your latest resume in PDF format  
+🌓 **Dark/Light Mode:** User-friendly theme toggle for better viewing experience  
+🖱️ **Smooth Animations:** Framer Motion-based transitions for an engaging UI  
+📬 **Contact Form:** Direct contact options for recruiters and collaborators  
+🧭 **Smooth Navigation:** Scroll-based section navigation for a seamless browsing experience  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Layer         | Tech Stack |
+|---------------|-----------|
+| 💻 **Frontend** | Next.js, React.js, Tailwind CSS |
+| 🎨 **UI Styling** | Tailwind CSS, CSS3 |
+| ⚡ **Animations** | Framer Motion |
+| 🖼️ **Design** | Responsive Grid, Flexbox |
+| 📝 **Languages** | JavaScript, HTML5, CSS3 |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+⭐ **Give it a Star!**  
+If you like **Ananya.verse**, please ⭐ the repo on GitHub!  
+Your support motivates continuous improvements and new features.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# portfolio
->>>>>>> 8552824faee36e0ed5a255ee112802f72c35d785
