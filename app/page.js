@@ -48,10 +48,10 @@ export default function Home() {
     </p>
 
     <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-2">
-      Constantly learning, adapting, and pushing the limits of what&rsquo;s possible.
+      Constantly learning, adapting, and pushing the limits of what&apos;s possible.
     </p>
     <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-     Let&rsquo;s collaborate and bring meaningful tech to life!
+     Let&apos;s collaborate and bring meaningful tech to life!
     </p>
     
 

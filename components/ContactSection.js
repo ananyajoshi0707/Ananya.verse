@@ -17,7 +17,7 @@ export default function ContactSection() {
           📬 Contact Me
         </h2>
         <p className="text-gray-600 dark:text-gray-400 mb-10">
-          I'm open to professional opportunities or collaboration inquiries. Feel free to reach out!
+          I&apos;m open to professional opportunities or collaboration inquiries. Feel free to reach out!
         </p>
 
         <div className="flex flex-col sm:flex-row justify-center items-center gap-6">
